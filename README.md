@@ -55,7 +55,7 @@
 - 🐦 DM me on [X/Twitter](⟪url⟫)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagta089-svg&layout=compact&theme=radical" />
 </p>
 
 
