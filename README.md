@@ -13,8 +13,8 @@
 - 🌱 I'm currently learning **Flutter for mobile development**
 - 🛠 Daily driver stack: **JAVA SpringBoot/ Flutter Dart**
 - 🎯 2025 Goal: **Full-Stack Developer**
-- 📫 Reach me: **chagta089@gmail.com** | [LinkedIn](ลิงก์ของคุณ) | [X/Twitter](ลิงก์ของคุณ)
-
+- 📫 Reach me: **chagta089@gmail.com**
+<!-- <h1>- | [LinkedIn](ลิงก์ของคุณ) | [X/Twitter](ลิงก์ของคุณ)</h1> -->
 ---
 
 ## 🧰 Tech Stack & Tools
@@ -42,7 +42,7 @@
 ## 📈 GitHub Stats
 <div align="center">
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chagta089-svg&theme=github_dark" /> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chagta089-svg9&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chagta089-svg&theme=github_dark" />
 </div>
 
 ---
