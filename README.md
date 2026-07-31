@@ -43,8 +43,8 @@
 <div align="center">
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chagta089-svg&theme=github_dark" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagta089-svg&layout=compact&hide_border=true&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/langs-per-repo?username=chagta089&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chagta089&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/langs-per-repo?username=chagta089-svg&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chagta08-svg9&theme=github_dark" />
 </div>
 
 ---
