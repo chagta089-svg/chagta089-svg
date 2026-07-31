@@ -43,6 +43,7 @@
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=chagta089&show_icons=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagta089&layout=compact&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chagta089&theme=github_dark" />
 </div>
 
 ---
