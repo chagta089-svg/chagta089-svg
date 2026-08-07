@@ -35,7 +35,7 @@
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
 | **Carpool App** | Flutter · Firebase · Dart · Cloudinary | Create travel posts, join rides & authentication | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **Camping Shop Management** | Java · Spring Boot · MySQL | Equipment shop management with inventory, order processing & store management | [Repo](⟪https://github.com/chagta089-svg/CampingStore.git⟫) |
+| **Camping Shop Management** | Java · Spring Boot · MySQL | Equipment shop management with inventory, order processing & store management | [Repo](https://github.com/chagta089-svg/CampingStore.git) |
 ---
 
 
