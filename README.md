@@ -40,10 +40,10 @@
 
 
 ## 📈 GitHub Stats
-<div align="center">
+<!-- <div align="center">
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chagta089-svg&theme=github_dark" /> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chagta089-svg&theme=github_dark" />
-</div>
+</div> -->
 
 ---
 
