@@ -48,7 +48,7 @@
 ---
 
 ## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
+> ** “Great products are built by great people working together.”**
 
 - 💌 Email: **chagta089@gmail.com**  
 - 🐦 DM me on [X/Twitter](⟪url⟫)
