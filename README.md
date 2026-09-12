@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I’m Chatchai Maneebutsaba <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>Mobile App & Web Developer</strong><br/>
+  <strong>Mobile App & Web Developer :)</strong><br/>
   <em>“Building apps that solve real problems.”</em>
 </p>
 
